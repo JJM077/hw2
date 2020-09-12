@@ -49,6 +49,6 @@ def getGradePoint(grade):
       print(f"Your GPA is: {gpa}") 
 
 
-    if __name__ == "__main__":
+  if __name__ == "__main__":
       run()
   
