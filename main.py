@@ -13,9 +13,9 @@ def getGradePoint(grade):
     return 2.67
   elif(grade == "C+"):
     return 2.33
-  elife(grade == "C"):
+  elif(grade == "C"):
     return 2.00
-  elife(grade == "D"):
+  elif(grade == "D"):
     return 1.0
   else:
     return 0.0
